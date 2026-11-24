@@ -1,0 +1,26 @@
+{
+	"name": "Tour_ENDI_Venus.XRInteraction",
+	"rootNamespace": "",
+	"references": [
+		"Tour_ENDI_Venus",
+		"Unity.XR.Interaction.Toolkit",
+		"Unity.InputSystem"
+	],
+	"includePlatforms": [],
+	"excludePlatforms": [],
+	"allowUnsafeCode": false,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"autoReferenced": true,
+	"defineConstraints": [
+		"TOUR_XRI"
+	],
+	"versionDefines": [
+		{
+			"name": "com.unity.xr.interaction.toolkit",
+			"expression": "3.0.0",
+			"define": "TOUR_XRI"
+		}
+	],
+	"noEngineReferences": false
+}

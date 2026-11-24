@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "bot": "PF_Neuro_AntiqueBronze",
+      "atlas": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Textures/ScreenEmotions/T_Neuro_ScreenEmotions_Antique_4x4.png",
+      "material": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_Neuro_ScreenEmotions_Antique.mat",
+      "reason": "Золотистая мозаика и бронзовая патина под кремово-бронзовый античный корпус.",
+      "bodyMaterial": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_AntiqueBronzeStyle.mat"
+    },
+    {
+      "bot": "PF_Neuro_AquaLaboratory",
+      "atlas": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Textures/ScreenEmotions/T_Neuro_ScreenEmotions_4x4.png",
+      "material": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_Neuro_ScreenEmotions.mat",
+      "reason": "Исходный бирюзовый свет повторяет водные узоры и холодную палитру корпуса.",
+      "bodyMaterial": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_AquaLaboratoryStyle.mat"
+    },
+    {
+      "bot": "PF_Neuro_Retro",
+      "atlas": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Textures/ScreenEmotions/T_Neuro_ScreenEmotions_Retro_4x4.png",
+      "material": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_Neuro_ScreenEmotions_Retro.mat",
+      "reason": "Янтарный точечный ЭЛТ под тёмный корпус с тёплой подсветкой.",
+      "bodyMaterial": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_RetroStyle.mat"
+    },
+    {
+      "bot": "PF_Neuro_Scifi",
+      "atlas": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Textures/ScreenEmotions/T_Neuro_ScreenEmotions_SciFi_4x4.png",
+      "material": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_Neuro_ScreenEmotions_SciFi.mat",
+      "reason": "Бело-голубые сегментированные голограммы под светлый технологичный корпус.",
+      "bodyMaterial": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_SciFiStyle.mat"
+    },
+    {
+      "bot": "PF_Neuro_BureauOfMeanings",
+      "atlas": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Textures/ScreenEmotions/T_Neuro_ScreenEmotions_BureauOfMeanings_4x4.png",
+      "material": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_Neuro_ScreenEmotions_BureauOfMeanings.mat",
+      "reason": "Кремовые каллиграфические штрихи с бордовым контуром под кремовый корпус и винный орнамент.",
+      "bodyMaterial": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_BureauOfMeaningsStyle.mat"
+    },
+    {
+      "bot": "PF_Neuro_ChemicalStation",
+      "atlas": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Textures/ScreenEmotions/T_Neuro_ScreenEmotions_ChemicalStation_4x4.png",
+      "material": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_Neuro_ScreenEmotions_ChemicalStation.mat",
+      "reason": "Зелёный лабораторный свет поддерживает зелёные полосы и колбу-маячок.",
+      "bodyMaterial": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_ChemicalStationStyle.mat"
+    },
+    {
+      "bot": "PF_Neuro_ElectroplantingShop",
+      "atlas": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Textures/ScreenEmotions/T_Neuro_ScreenEmotions_ElectroplantingShop_4x4.png",
+      "material": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_Neuro_ScreenEmotions_ElectroplantingShop.mat",
+      "reason": "Лимонно-жёлтые промышленные сегменты под предупреждающие полосы и серый металл.",
+      "bodyMaterial": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_ElectroplantingShopStyle.mat"
+    },
+    {
+      "bot": "PF_Neuro_FieldPost",
+      "atlas": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Textures/ScreenEmotions/T_Neuro_ScreenEmotions_FieldPost_4x4.png",
+      "material": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_Neuro_ScreenEmotions_FieldPost.mat",
+      "reason": "Бумажно-белый свет с синим контуром под почтовый сине-серый корпус.",
+      "bodyMaterial": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_FieldPostStyle.mat"
+    },
+    {
+      "bot": "PF_Neuro_KeeperOfMemory",
+      "atlas": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Textures/ScreenEmotions/T_Neuro_ScreenEmotions_KeeperOfMemory_4x4.png",
+      "material": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_Neuro_ScreenEmotions_KeeperOfMemory.mat",
+      "reason": "Фарфорово-кремовый свет с рубиновым акцентом под бело-красную эмаль.",
+      "bodyMaterial": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_KeeperOfMemoryStyle.mat"
+    },
+    {
+      "bot": "PF_Neuro_LadogaGuide",
+      "atlas": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Textures/ScreenEmotions/T_Neuro_ScreenEmotions_LadogaGuide_4x4.png",
+      "material": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_Neuro_ScreenEmotions_LadogaGuide.mat",
+      "reason": "Ледяной бело-голубой рисунок под морозный светлый скин.",
+      "bodyMaterial": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_LadogaGuideStyle.mat"
+    },
+    {
+      "bot": "PF_Neuro_MartianScout",
+      "atlas": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Textures/ScreenEmotions/T_Neuro_ScreenEmotions_MartianScout_4x4.png",
+      "material": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_Neuro_ScreenEmotions_MartianScout.mat",
+      "reason": "Кораллово-оранжевые сегменты под ржаво-красные детали марсианского разведчика.",
+      "bodyMaterial": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_MartianScoutStyle.mat"
+    },
+    {
+      "bot": "PF_Neuro_MasterOfLogistics",
+      "atlas": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Textures/ScreenEmotions/T_Neuro_ScreenEmotions_MasterOfLogistics_4x4.png",
+      "material": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_Neuro_ScreenEmotions_MasterOfLogistics.mat",
+      "reason": "Охристые модульные сегменты под тёмный оливковый корпус и жёлтый маяк.",
+      "bodyMaterial": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_MasterOfLogisticsStyle.mat"
+    },
+    {
+      "bot": "PF_Neuro_PrismAndOptics",
+      "atlas": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Textures/ScreenEmotions/T_Neuro_ScreenEmotions_PrismAndOptics_4x4.png",
+      "material": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_Neuro_ScreenEmotions_PrismAndOptics.mat",
+      "reason": "Спектральные штрихи повторяют радужную оптику корпуса.",
+      "bodyMaterial": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_PrismAndOpticsStyle.mat"
+    },
+    {
+      "bot": "PF_Neuro_RadioConsuctor",
+      "atlas": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Textures/ScreenEmotions/T_Neuro_ScreenEmotions_RadioConsuctor_4x4.png",
+      "material": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_Neuro_ScreenEmotions_RadioConsuctor.mat",
+      "reason": "Медно-медовые контуры под тёмный деревянно-латунный радиоскин.",
+      "bodyMaterial": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_RadioConductorStyle.mat"
+    },
+    {
+      "bot": "PF_Neuro_RenaissaneMechanic",
+      "atlas": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Textures/ScreenEmotions/T_Neuro_ScreenEmotions_RenaissaneMechanic_4x4.png",
+      "material": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_Neuro_ScreenEmotions_RenaissaneMechanic.mat",
+      "reason": "Пергаментно-медная гравировка под ренессансный корпус с чертёжным орнаментом.",
+      "bodyMaterial": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_RenaissanceMechanicStyle.mat"
+    },
+    {
+      "bot": "PF_Neuro_VenusProbe",
+      "atlas": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Textures/ScreenEmotions/T_Neuro_ScreenEmotions_VenusProbe_4x4.png",
+      "material": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_Neuro_ScreenEmotions_VenusProbe.mat",
+      "reason": "Шампань и белое золото под золотисто-кремовый корпус венерианского зонда.",
+      "bodyMaterial": "Assets/_Tours/Tour_ENDI_NeuroGuide/Ress/Resource/Characters/Neuro_Guide/Materials/M_VenusProbeStyle.mat"
+    }
+  ]
+}

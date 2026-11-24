@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: production texture atlas for the separate UV screen of a friendly rounded 3D robot in Unity.
+Create one perfectly square texture atlas, exact regular 4 by 4 grid of 16 equal square cells, edge-to-edge. All cells have identical solid very dark navy almost black backgrounds. Each cell contains just a robot digital face made from crisp simple luminous pale cyan/turquoise eyes and a small matching mouth. Consistent graphic language, stroke weight, face scale and eye positions throughout. Flat front-facing 2D emissive screen graphics, clean rounded shapes, extremely subtle glow only. No robot bodies, no screen outlines, no borders, no visible grid lines, no captions, no text, no watermarks, no perspective, no reflections. Each face centered precisely within its cell and confined to central 65 percent of cell, generous dark padding for UV sampling.
+Exactly these expressions in row-major order from top left:
+row 1: neutral friendly (two oval eyes small straight mouth); happy (upturned eyes smile); delighted laughing (closed chevron eyes open smiling mouth); wink (one closed eye one open eye smile).
+row 2: curious (one raised eyebrow slight tilted mouth); surprised (round eyes small round O mouth); thinking (eyes glance sideways mouth off-center); confused (uneven eyebrows wavy small mouth).
+row 3: sad (drooping eyes downturned mouth); worried (raised inner brows tense mouth); angry (slanted inward brows flat mouth, still cute); sleepy (half-closed eyes small mouth).
+row 4: sleeping (two closed curved eyelids tiny mouth, no Z letters); love (two cyan heart eyes smile); excited (two cyan star-shaped eyes smile); offline (two short horizontal eye dashes and straight mouth).
+The result must be a usable seamless-layout texture sheet, not a presentation board. Target 2048x2048 pixels.
